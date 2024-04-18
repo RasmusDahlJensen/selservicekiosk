@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kiosk/Self service kiosk fil setup.md",
+                "file": "Kraack-Notes/Kraack - Kiosk Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kiosk/Self service kiosk fil setup.md",
+                "file": "Kraack-Notes/Kraack - Kiosk Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kiosk/Self service kiosk fil setup.md",
+                "file": "Kraack-Notes/Kraack - Kiosk Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kiosk/Self service kiosk fil setup.md"
+                "file": "Kraack-Notes/Kraack - Kiosk Setup.md"
               }
             }
           }
@@ -146,20 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2cd71073d98731f",
+  "active": "3ef9f1f024f4fe1c",
   "lastOpenFiles": [
-    "kiosk/Self service kiosk.md",
+    "Pasted image 20240418154859.png",
+    "Pasted image 20240418154710.png",
+    "Kraack-Notes/Kraack - Kiosk Setup.md",
+    "Pasted image 20240418134232.png",
+    "Pasted image 20240418133834.png",
+    "Pasted image 20240418133143.png",
+    "Pasted image 20240418133013.png",
+    "Pasted image 20240418132352.png",
+    "Pasted image 20240418130136.png",
+    "Pasted image 20240418130103.png",
     "kiosk/Self service kiosk fil setup.md",
+    "kiosk/Self service kiosk.md",
     "Pasted image 20240416114913.png",
     "Pasted image 20240416121016.png",
-    "Pasted image 20240416121010.png",
-    "Pasted image 20240416120938.png",
-    "Pasted image 20240416115226.png",
-    "Pasted image 20240416115150.png",
-    "Pasted image 20240416115136.png",
-    "Pasted image 20240416115112.png",
-    "Pasted image 20240416115058.png",
-    "Pasted image 20240416115040.png",
     "Welcome.md",
     "kiosk",
     "New folder"
