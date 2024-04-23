@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kraack-Notes/Kraack - Kiosk Setup.md",
+                "file": "kiosk/Self service kiosk fil setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kraack-Notes/Kraack - Kiosk Setup.md",
+                "file": "kiosk/Self service kiosk fil setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kraack-Notes/Kraack - Kiosk Setup.md",
+                "file": "kiosk/Self service kiosk fil setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kraack-Notes/Kraack - Kiosk Setup.md"
+                "file": "kiosk/Self service kiosk fil setup.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "3ef9f1f024f4fe1c",
   "lastOpenFiles": [
-    "Welcome.md",
-    "kiosk/Self service kiosk fil setup.md",
     "Kraack-Notes/Kraack - Kiosk Setup.md",
+    "kiosk/Self service kiosk fil setup.md",
+    "Pasted image 20240422133529.png",
+    "Welcome.md",
     "Pasted image 20240418154859.png",
     "Pasted image 20240418154710.png",
     "Pasted image 20240418134232.png",
@@ -161,7 +162,6 @@
     "Pasted image 20240418130136.png",
     "Pasted image 20240418130103.png",
     "kiosk/Self service kiosk.md",
-    "Pasted image 20240416114913.png",
     "kiosk",
     "New folder"
   ]
