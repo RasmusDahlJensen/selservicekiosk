@@ -17,3 +17,6 @@ Kombiner payment options med den.
 Færdiggør order detail siden.
 
 Lav overvejelser til resource keys til en fuld angular løsning til hvis man skal gøre siden 2 sproget.
+
+Ændrer JSON data til at være consistent, ingen duplicate ID'er og ingen forkerte categories.
+Giv JSON data en path til nogle rigtige billeder, men de kan være fordelt vilkårligt 
