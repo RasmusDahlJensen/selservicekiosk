@@ -32,19 +32,19 @@ eg. ``ErrorHandlerFactory.ts``
 
 #### Component 
 Components bliver HTML elementer som enten går igen, eller som skal indskydes 
-##### Foodcard
+##### Foodcard -x
 ![[Pasted image 20240416115136.png]]
-##### Back button
+##### Back button -x
 ![[Pasted image 20240416115003.png]]
-##### Navbar
+##### Navbar -x
 ![[Pasted image 20240416115017.png]]
-##### Banner
+##### Banner-x
 ![[Pasted image 20240416115040.png]]
-##### Footer
+##### Footer -x
 ![[Pasted image 20240416115058.png]]
 ##### Scroll To Bottom Arrow
 ![[Pasted image 20240416115112.png]]
-##### Menu section
+##### Menu section -X
 Hver menu section laves til et komponent, som kan tage imod et array af elementer (f.eks 
 ```js
 var element = {
@@ -56,14 +56,10 @@ var element = {
 )
 
 ![[Pasted image 20240416115150.png]]
-##### item and price Summary
+##### item and price Summary -X
 ![[Pasted image 20240416115226.png]]
 ##### Quickview
 ![[Pasted image 20240416120938.png]]
-##### Add to order button
-![[Pasted image 20240416121010.png]]
-##### Cancel button
-![[Pasted image 20240416121016.png]]
 
 ### Kraack
 

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6b07167cdb8514e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opgaver.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kiosk/Self service kiosk fil setup.md",
+                "file": "Opgaver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kiosk/Self service kiosk fil setup.md",
+                "file": "Opgaver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kiosk/Self service kiosk fil setup.md"
+                "file": "Opgaver.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ef9f1f024f4fe1c",
+  "active": "e6b07167cdb8514e",
   "lastOpenFiles": [
-    "Kraack-Notes/Kraack - Kiosk Setup.md",
     "kiosk/Self service kiosk fil setup.md",
+    "Opgaver.md",
+    "Kraack-Notes/Kraack - Kiosk Setup.md",
     "Pasted image 20240422133529.png",
     "Welcome.md",
     "Pasted image 20240418154859.png",
